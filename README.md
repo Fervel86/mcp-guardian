@@ -21,9 +21,9 @@ MCP Guardian is an intermediate gateway that sits between AI clients and MCP ser
 | OAuth 2.0 + OBO token exchange | 🚧 MVP |
 | Rate limiting & quota management | 🚧 MVP |
 | Audit logging (who, what, when) | 🚧 MVP |
+| Human-in-the-loop approval | 🚧 MVP (Critical Operations)
 | PII redaction | 📅 Roadmap |
 | Multi-agent orchestration | 📅 Roadmap |
-| Human-in-the-loop approval | 📅 Roadmap |
 
 ## Quick Start
 
